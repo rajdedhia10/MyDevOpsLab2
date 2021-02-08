@@ -1,1 +1,3 @@
 Created during f7
+
+Added for git reset
